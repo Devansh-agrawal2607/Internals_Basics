@@ -1,0 +1,16 @@
+{
+    "health_endpoint": "/heartbeat",
+    "predict_endpoint": "/predict",
+    "port": 8500,
+    "health_response": {
+        "status": "operational",
+        "service": "QuantumBench API"
+    },
+    "test_input": {
+        "qubit_count": 67,
+        "gate_depth": 318,
+        "error_rate_pct": 2.3,
+        "is_error_corrected": 0
+    },
+    "prediction": 318.2339141343374
+}

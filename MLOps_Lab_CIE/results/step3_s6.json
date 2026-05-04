@@ -1,0 +1,7 @@
+{
+    "registered_model_name": "quantumbench-circuit-exec-ms-predictor",
+    "version": 1,
+    "run_id": "76ff7ee43c8343deb2b9d58cc5c745bf",
+    "source_metric": "mae",
+    "source_metric_value": 37.505208272335246
+}

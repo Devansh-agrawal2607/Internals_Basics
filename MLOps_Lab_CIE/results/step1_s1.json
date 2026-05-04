@@ -1,0 +1,20 @@
+{
+    "experiment_name": "quantumbench-circuit-exec-ms",
+    "models": [
+        {
+            "name": "LinearRegression",
+            "mae": 37.505208272335246,
+            "rmse": 47.068147953934336,
+            "r2": 0.7768870034509008
+        },
+        {
+            "name": "Ridge",
+            "mae": 38.48969548803488,
+            "rmse": 48.089237558146955,
+            "r2": 0.767101639009483
+        }
+    ],
+    "best_model": "LinearRegression",
+    "best_metric_name": "mae",
+    "best_metric_value": 37.505208272335246
+}
